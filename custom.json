@@ -1794,6 +1794,7 @@
 "R-9": "{#F9}",
 "R-BGT": "{^}[{^}",
 "R-BS": "rebase",
+"R-D": "ready",
 "R-F": "rf",
 "R-FPB": "RCN",
 "R-FPLT": "{#+right}",
