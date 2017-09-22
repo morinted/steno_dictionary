@@ -3394,6 +3394,7 @@
 "TPAFRT": "faster",
 "TPAO": "foo",
 "TPAO*EUPBD": "{#Control_L(f)}",
+"TPAOEB": "feedback",
 "TPAOEBG": "feedback",
 "TPAOEDZ/O*PL": "freedom",
 "TPAOEPB/AOEPL": "phoneme",
