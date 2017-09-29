@@ -3661,6 +3661,7 @@
 "TPR-RPL": "{.}{^\n^}{-|}",
 "TPRAED": "afraid",
 "TPRAEFD": "afraid",
+"TPRAEUF": "TypeRace",
 "TPRAEUFR": "TypeRacer",
 "TPRAEUFRG": "TypeRacing",
 "TPRAEUFRPL": "TypeRacer.com",
