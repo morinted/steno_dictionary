@@ -1062,6 +1062,7 @@
 "KWAUBG": "clearwaterclinical",
 "KWAUGS": "{^}={^}",
 "KWAUL": "equal",
+"KWAUL/TPAOEUR": "qualifier",
 "KWAULS": "{^}={^}",
 "KWAUR": "clearwater",
 "KWAUR/KWAUR": "clearwaterclinical",
