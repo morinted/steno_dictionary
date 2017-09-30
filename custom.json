@@ -1768,6 +1768,7 @@
 "PWR*B": "brb",
 "PWR*BGT": "{^~|]}",
 "PWR*EU": "bury",
+"PWR*EURB": "British",
 "PWR*EUS": "buries",
 "PWR*R": "¦",
 "PWR*S": "{^\\}}",
