@@ -1842,6 +1842,7 @@
 "RAED/O*EPBL": "readonly",
 "RAED/OEPBL": "read-only",
 "RAEP": "reap",
+"RAEPL": "realtime",
 "RAEPLT": "realtime",
 "RAEU/KWRAPB": "Rayan",
 "RAEUD/KWROUS": "radius",
