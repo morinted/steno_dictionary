@@ -1854,6 +1854,7 @@
 "R-F": "rf",
 "R-FPB": "RCN",
 "R-FPLT": "{#+right}",
+"R-L": "really",
 "R-PL": "rm",
 "R-PLS": "{#Escape}{^}:%s/{^}",
 "R-R": "{^~|\n^}{MODE:RESET}",
