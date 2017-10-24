@@ -3182,6 +3182,8 @@
 "TK*EUFT": "dist",
 "TK*EUL/KA*T": "DigitalCAT",
 "TK*FPS": "{*?}",
+"TK*PBD": "DnD",
+"TK*PBD/TK*PBD": "Dungeons and Dragons",
 "TK*PL": "{^$^}",
 "TK*RB": "{^}—{^}",
 "TK*UBL": "doubly",
