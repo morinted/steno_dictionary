@@ -704,6 +704,7 @@
 "K*PL": "kilometer",
 "K*RPBS": "{*($c)}",
 "K*URPB": "{¤^}",
+"K*URPBS": "currency",
 "K*UT": "{#Control_L(x)}",
 "K-BGS": "{MODE:CAMEL}",
 "K-BLG": "{#Super_L(Alt_L(i))}",
