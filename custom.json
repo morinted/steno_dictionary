@@ -4065,7 +4065,7 @@
 "TPOPBTS": "fonts",
 "TPORBGD": "forked",
 "TPORT": "fort",
-"TPR*G": "{#Control_L(Alt_L(k))}",
+"TPR*G": "{#control(alt(k))}",
 "TPR*LG": "{#control(Alt(o j))}",
 "TPR*PBLG": "{#Control_L(Alt_L(j))}",
 "TPR*PS": "{#Control_L(Alt_L(o))}",
