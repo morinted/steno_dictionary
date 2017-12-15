@@ -1171,7 +1171,7 @@
 "KW-L": "{#}={MODE:RESET}",
 "KW-L/A*EPBG": "=>",
 "KW-LS": "{#}==",
-"KW-LZ": "===",
+"KW-LZ": "{}===",
 "KW-PL": "{?}",
 "KW-RBGS": "{#Return}{#Return}Q: {-|}",
 "KW-SZ": "{“^}",
