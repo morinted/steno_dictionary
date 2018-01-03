@@ -2216,6 +2216,7 @@
 "SAELT": "salty",
 "SAES": "seas",
 "SAET": "seat",
+"SAET/*L": "Seattle",
 "SAEU/SA*EU": "say, \"{^}{-|}",
 "SAEU/SA*EUS": "say, \"{^}{-|}",
 "SAEU/SAEU": "say, \"{^}{-|}",
