@@ -2808,6 +2808,7 @@
 "SP*PL": "{#option(space)}{^}",
 "SP*PL/SP*PL": "{#w space}",
 "SP*PLD": "{MODE:SET_SPACE:-}",
+"SP-BGS": ": \"{^}{-|}",
 "SP-FRPBLG": "{#option(command(t))}",
 "SP-PT": "{;}",
 "SP-RD": "...{^}",
