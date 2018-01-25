@@ -4,6 +4,7 @@
 "#/2*": "##{^ ^} {-|}",
 "#S": "toast",
 "*6": "{#Alt_L(BackSpace)}",
+"*E/2*E": "e2e",
 "*EF/POE/TRAPBS/PRAEUGS": "evapotraspiration",
 "*EF/TRAPBS/RAEUGS": "evapotraspiration",
 "*EFPB": "Evan",
