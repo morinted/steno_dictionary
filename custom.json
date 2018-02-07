@@ -2299,6 +2299,7 @@
 "SAEU/SAEU": "say, \"{^}{-|}",
 "SAEUD/SA*EUD": "said, \"{^}{-|}",
 "SAEUD/SAEUD": "said, \"{^}{-|}",
+"SAEUG/SAEUG": "saying, \"{^}{-|}",
 "SAEURL": "sailor",
 "SAEUS/SAEUS": "says, \"{^}{-|}",
 "SAF/REU": "savory",
