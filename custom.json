@@ -2516,6 +2516,7 @@
 "SKHROG": "console.log({^}",
 "SKHROP": "scallop",
 "SKHROPS": "scallops",
+"SKHROR": "console.error({^}",
 "SKO*R": "{^-score}",
 "SKOEGS": "Scotia",
 "SKOEP/EUFTS": "scopists",
