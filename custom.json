@@ -4227,6 +4227,7 @@
 "TPHOT/A/HROUD/TO/STPHAOP/OPB/PHE/HA/HA": "nothing",
 "TPHOUT": "timeout",
 "TPHR*": "{#Control_L(Alt_L(q))}",
+"TPHR*EUP": "Filip",
 "TPHR*UBGS": "Flux",
 "TPHR-B": "{#AudioLowerVolume}",
 "TPHR-P": "{#AudioRaiseVolume}",
