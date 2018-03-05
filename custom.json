@@ -4103,6 +4103,7 @@
 "TPAZ": "as if",
 "TPEFBG": "{#escape}{MODE:RESET}",
 "TPEFP/H*ED": "FETCH_HEAD",
+"TPEFRPB": "{#command(shift(r))}",
 "TPEFT/*ERG": "festering",
 "TPEL/SH*EUP": "fellowship",
 "TPEL/SH-P": "fellowship",
