@@ -1,5 +1,5 @@
 {
-"#": "{*+}",
+"#": "=repeat_last_translation",
 "#*": "{#Control_L(BackSpace)}",
 "#/2*": "##{^ ^} {-|}",
 "#S": "toast",
