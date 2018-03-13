@@ -2629,6 +2629,7 @@
 "SKPH-S": "{#command(shift(s))}",
 "SKPH-T": "{#Super_L(Shift_L(t))}",
 "SKPH-Z": "{#command(shift(z))}",
+"SKPHA": "schema",
 "SKPHAEUL": "exhale",
 "SKPHAEUPBG": "exchange",
 "SKPHAUFT": "exhaust",
