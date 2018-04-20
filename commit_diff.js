@@ -14,11 +14,11 @@ setTimeout(() => {
     }
     const difference = detailedDiff(old, current)
 
-    const strokeToString = stroke => `${stroke}:${current[stroke]}`
+    const strokeToString = dictionary => stroke => `${stroke}:${dictionary[stroke]}`
     const added =
-        Object.keys(difference.added).map(strokeToString).join(', ')
+        Object.keys(difference.added).map(strokeToString(current)).join(', ')
     const deleted =
-        Object.keys(difference.deleted).map(strokeToString).join(', ')
+        Object.keys(difference.deleted).map(strokeToString(old)).join(', ')
     const updated =
         Object.keys(difference.updated).map(stroke =>
             `${stroke}:${old[stroke]}→${current[stroke]}`
