@@ -2784,7 +2784,7 @@
 "SKWRA*BG/-T/PWAER": "Jack the Bear",
 "SKWRA*EURD": "Jarrod",
 "SKWRA*F/KWRA": "Java",
-"SKWRA*P": "{PLOVER:TOGGLE_DICT:+hiragana.json}{MODE:SET_SPACE:}",
+"SKWRA*P": "{PLOVER:TOGGLE_DICT:+hiragana.json,-main.json}{MODE:SET_SPACE:}",
 "SKWRA*PBG": "Angular",
 "SKWRA/SRA*/TP*P/KP*P": "JavaFX",
 "SKWRABG/KWREL": "jackal",
