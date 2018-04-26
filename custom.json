@@ -994,6 +994,7 @@
 "KHR-T": "{#Control_L(t)}",
 "KHR-Z": "{#Control_L(z)}",
 "KHRA*": "{#Control_L(a)}",
+"KHRA*PS": "{MODE:SET_SPACE: 👏 }",
 "KHRA*R": "{^icular}",
 "KHRAERT": "calculator",
 "KHRAES": "classy",
