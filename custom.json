@@ -1104,6 +1104,7 @@
 "KPH*Z": "{#Super_L(Shift_L(z))}",
 "KPH-B": "{#command(b)}",
 "KPH-BGS": "{#Super_L(x)}",
+"KPH-BGT": "{#command(c t v)}",
 "KPH-D": "{#Super_L(d)}",
 "KPH-F": "{#command(f)}{^^}",
 "KPH-LD": "{##+command}",
