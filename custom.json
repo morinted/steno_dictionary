@@ -3914,6 +3914,7 @@
 "TKPWEUT/TKEUF": "{>}git diff",
 "TKPWEUT/TPEFP/AUL": "git fetch --all",
 "TKPWEUT/TPEFP/KR*R": "git fetch origin refs/changes/2/3/1",
+"TKPWH*UB": "github",
 "TKPWHET": "ghetto",
 "TKPWHEUT": "git commit",
 "TKPWHRA*T": "Nhật",
