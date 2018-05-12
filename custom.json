@@ -3866,6 +3866,8 @@
 "TKPHEURGS": "admiration",
 "TKPHEURPB": "administrator",
 "TKPHEUT": "admit",
+"TKPHO*PB": "daemon",
+"TKPHO*PBS": "daemons",
 "TKPHOPB": "demon",
 "TKPHOPBGS": "demonstration",
 "TKPHRAEUGS": "admiration",
