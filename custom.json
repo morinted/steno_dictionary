@@ -2034,6 +2034,7 @@
 "PWA/SAO*G/KWRA": "bazooka",
 "PWA/TAR/KWREU": "Batari",
 "PWA/TAR/KWREU/PWA*EUFBG": "Batari Basic",
+"PWA/TAR/KWREU/PWAEUFBG": "Batari Basic",
 "PWAB": "bab",
 "PWAB/*L": "babble",
 "PWAB/TPHOED": "babel-node",
