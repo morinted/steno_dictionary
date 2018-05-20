@@ -1132,6 +1132,7 @@
 "KPH-BGT": "{#command(c t v)}",
 "KPH-D": "{#Super_L(d)}",
 "KPH-F": "{#command(f)}{^^}",
+"KPH-FG": "{PLOVER:VLC_seek:-4s}",
 "KPH-FPG": "{PLOVER:VLC_seek:-4s}",
 "KPH-LD": "{##+command}",
 "KPH-LG": "[](){#Left Left Left}{^}{-|}",
