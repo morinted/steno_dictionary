@@ -2757,6 +2757,8 @@
 "SKPHRAOUGS": "exclusion",
 "SKPHRAOUS": "exclusive",
 "SKPHRAOUS/*EUF": "exclusive",
+"SKPHRAOUS/*EUFL": "exclusively",
+"SKPHRAOUS/HREU": "exclusively",
 "SKPHRAPBGS": "explanation",
 "SKPHRAPBGSZ": "explanations",
 "SKPHRAPLGS": "exclamation",
