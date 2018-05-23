@@ -2803,6 +2803,7 @@
 "SKR-F": "csv",
 "SKR-L": "circle",
 "SKR-RBT": "{#command(shift(4))}",
+"SKR-S": "scss",
 "SKRAEUPBS": "constraints",
 "SKRAEUPBT": "constraint",
 "SKRAOERBT": "screenshot",
