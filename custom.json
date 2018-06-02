@@ -3406,7 +3406,7 @@
 "STPOERBGS": "{,}for example{,}",
 "STPOERBGS/KW-BG": "{,}for example{,}",
 "STPOR": "scissor",
-"STPR": "{#+shift}",
+"STPR": "{:stitch_last_word:1}",
 "STPR-R": "{#shift(return)}{^}",
 "STPR-RPLS": "{MODE:RESET}{#}",
 "STPR-RPLT": "{^:}{-|}",
