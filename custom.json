@@ -3922,6 +3922,7 @@
 "TKPW": "good",
 "TKPW*/PHAEUL": "gmail",
 "TKPW*EUG": "{giga^}",
+"TKPW*FP": "{MODE:SET_SPACE:  }",
 "TKPW*P/20/-S": "G20s",
 "TKPW*UL": "git pull",
 "TKPW-D": "good day",
