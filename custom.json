@@ -1966,7 +1966,7 @@
 "PR-PB": "{^~|(^}",
 "PR-PBS": "{^}()",
 "PR-PBSZ": "{^}(s)",
-"PR-PBZ": "() => {\n{^}",
+"PR-PBZ": "() => \\{\n{^}",
 "PRA*EUT": "prate",
 "PRA*F": "¶",
 "PRABGT": "practical",
