@@ -4498,6 +4498,7 @@
 "TPHRO*": "n-key rollover",
 "TPHRO/TPHRO": "n-key rollover",
 "TPHROEP": "floppy",
+"TPHROEPT": "/*@flow*/",
 "TPHROURB": "flourish",
 "TPHRUBG/TWAEUGS": "fluctuation",
 "TPHU/KWRAO*ER": "New Year",
