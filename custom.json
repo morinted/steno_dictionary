@@ -4044,6 +4044,8 @@
 "TKPWH*UB": "github",
 "TKPWHET": "ghetto",
 "TKPWHEUT": "git commit",
+"TKPWHR*S": "{^~|»}",
+"TKPWHR-S": "{~|«^}",
 "TKPWHRA*T": "Nhật",
 "TKPWHRABGS/KWREU": "galaxy",
 "TKPWHRABGS/SEU": "galaxy",
