@@ -14,16 +14,16 @@ setTimeout(() => {
     }
     const difference = detailedDiff(old, current)
 
-    const strokeToString = dictionary => stroke => `${stroke}:${dictionary[stroke]}`
+    const strokeToString = dictionary => stroke => `${stroke}: ${dictionary[stroke]}`
     const added =
         Object.keys(difference.added).map(strokeToString(current)).join(', ')
     const deleted =
         Object.keys(difference.deleted).map(strokeToString(old)).join(', ')
     const updated =
         Object.keys(difference.updated).map(stroke =>
-            `${stroke}:${old[stroke]}→${current[stroke]}`
+            `${stroke}: ${old[stroke]} → ${current[stroke]}`
         ).join(', ')
 
-    const commitMessage = [updated && `♻️${updated}`, added && `🆕${added}`, deleted && `🗑️${deleted}`].filter(x => x).join(' ')
+    const commitMessage = [added && `${added}`, updated && `♻️${updated}`, deleted && `🗑️${deleted}`].filter(x => x).join(' ')
     git.add('.').commit(commitMessage).push('origin', 'master')
 }, 60*1000)
