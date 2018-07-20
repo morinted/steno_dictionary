@@ -1145,6 +1145,8 @@
 "KPH*/OEU": "{#command(slash)}",
 "KPH*B": "{#Super_L(Down)}",
 "KPH*BG": "{#Super_L(c)}",
+"KPH*EU": "{#command(i)}",
+"KPH*EUB": "{#command(b i)}",
 "KPH*FPG": "{PLOVER:VLC_toggle_pause}",
 "KPH*P": "{#Super_L(Up)}",
 "KPH*PB": "{#Super_L(n)}",
