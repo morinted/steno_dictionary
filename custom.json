@@ -3098,6 +3098,7 @@
 "SOUFP": "so much",
 "SOURPBL": "southerly",
 "SP*": "{^ ^}",
+"SP*ELD": "{*<}{:stitch_last_word}",
 "SP*ERBL": "specially",
 "SP*EUF": "spiv",
 "SP*EUFBG": "{^-specific}",
