@@ -1348,6 +1348,7 @@
 "KW-LS": "{#}==",
 "KW-LZ": "{}===",
 "KW-PL": "{?}",
+"KW-PLS": "QMS",
 "KW-RBGS": "{#Return}{#Return}Q: {-|}",
 "KW-SZ": "{“^}",
 "KWA*P": "QA",
