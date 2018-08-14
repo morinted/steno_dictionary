@@ -3985,6 +3985,7 @@
 "TKHAOES": "adhese",
 "TKHAOES/*EUF": "adhesive",
 "TKHR*EUFR": "delivery",
+"TKHR*PB": "{#command(shift(k))}",
 "TKHR-R": "{*($c)}",
 "TKHR-RS": "{*($c)}",
 "TKHRAEURD": "declared",
