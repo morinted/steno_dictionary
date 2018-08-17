@@ -2717,6 +2717,7 @@
 "SK-L": "circle",
 "SK-RL": "circle",
 "SKA*EUP": "escape",
+"SKA*L": "SCAL",
 "SKAD": "scad",
 "SKAEBL": "escapable",
 "SKAEP": "escape",
