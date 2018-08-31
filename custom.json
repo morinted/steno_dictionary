@@ -1264,6 +1264,8 @@
 "KR*FS": "css",
 "KR*GS": "{^}\"{-|}",
 "KR*RT": "{#dead_circumflex}",
+"KR*TS": "ctcae",
+"KR*TS/KR*TS": "CTCAE",
 "KR*UD": "CRUD",
 "KR*UPL": "cum",
 "KR-FG": "config",
