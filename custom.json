@@ -4167,7 +4167,7 @@
 "TKPWEUT/HUB": "github",
 "TKPWEUT/HUPB": "Github",
 "TKPWEUT/KPHEUT/A/PHEPBD": "{>}git commit --amend",
-"TKPWEUT/KR*R": "git push origin HEAD:refs/for/$(git rev-parse --abbrev-ref HEAD)",
+"TKPWEUT/KR*R": "{>}git push origin HEAD:refs/for/{^}{>}",
 "TKPWEUT/PUL": "{>}git pull",
 "TKPWEUT/PURB/KR*R": "git push origin HEAD:refs/for/master",
 "TKPWEUT/RE/PWAEUS": "git rebase",
