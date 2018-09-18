@@ -4089,6 +4089,7 @@
 "TKPU": "{^}.toExclude({^}",
 "TKPW": "good",
 "TKPW*/PHAEUL": "gmail",
+"TKPW*ERT": "gerrit",
 "TKPW*EUG": "{giga^}",
 "TKPW*FP": "{MODE:SET_SPACE:  }",
 "TKPW*P/20/-S": "G20s",
