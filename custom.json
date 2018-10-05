@@ -4625,6 +4625,7 @@
 "TPHEUR/SRAPB/KWRA": "nirvana",
 "TPHEUR/SRAPB/KWRA*": "Nirvana",
 "TPHO*EFP": "{MODE:SET_SPACE:}",
+"TPHO*EP": "{^}{>}n\n",
 "TPHO*EPL": "know{.}",
 "TPHO*EUS": "noice",
 "TPHO*G": "nothin'",
@@ -5050,5 +5051,6 @@
 "WRUR": "where you are",
 "WUFPBT/-T": "one of the",
 "WUPB/TRAOE/HEUL": "One Tree Hill",
-"WURTS": "Wurtz"
+"WURTS": "Wurtz",
+"n": "p"
 }
