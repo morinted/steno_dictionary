@@ -2736,7 +2736,7 @@
 "SK*": "Saskatchewan",
 "SK*/SK*": "Saskatchewan",
 "SK*EFL": "successfully",
-"SK-D/SK-D": "asked, \"{-|}{^}",
+"SK-D/SK-D": "asked, \"{^}{-|}",
 "SK-L": "circle",
 "SK-RL": "circle",
 "SKA*EUP": "escape",
