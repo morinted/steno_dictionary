@@ -4435,6 +4435,7 @@
 "TP-PL/TPR-RPL": "{.}{^\n^}{-|}",
 "TP-RBLT": "{&f}",
 "TP-RBS": "efficiency",
+"TP-RPLG": "FormGroup",
 "TP-TS": "if it is",
 "TP/*TS": "if it's",
 "TPA*": "phở",
