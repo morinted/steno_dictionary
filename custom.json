@@ -2891,6 +2891,7 @@
 "SKPERPT": "excerpt",
 "SKPERPTS": "excerpts",
 "SKPERT": "expert",
+"SKPERT/*EUS": "expertise",
 "SKPERT/AOEZ": "expertise",
 "SKPERTS": "experts",
 "SKPES": "excess",
