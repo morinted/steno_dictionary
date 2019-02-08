@@ -2742,6 +2742,7 @@
 "SHA*": "SHA",
 "SHA*D": "{^}ssh-add ~/.ssh/{^}",
 "SHA*EPB": "shaken",
+"SHA*P": "SHA",
 "SHA/HROE": "shallow",
 "SHA/PWAOPL": "shaboom",
 "SHA/PWAPL": "shabam",
