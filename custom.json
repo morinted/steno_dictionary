@@ -1405,7 +1405,7 @@
 "KW-BG/STPOERBGS": "{,}for example{,}",
 "KW-BG/STPOERBGS/KW-BG": "{,}for example{,}",
 "KW-BGS": "{,}",
-"KW-FPLT": "{^\n\n**Q: **^}{#left left}{-|}",
+"KW-FPLT": "{^\n\n> ^}{-|}",
 "KW-L": "{#}={MODE:RESET}",
 "KW-L/A*EPBG": "=>",
 "KW-LS": "{#}==",
