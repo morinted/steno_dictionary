@@ -3006,6 +3006,7 @@
 "SKPH*": "{^\\^}",
 "SKPH*F": "{#command(shift(v))}",
 "SKPH-F": "{#command(shift(f))}{^^}",
+"SKPH-FPGS": "{^}```{^}",
 "SKPH-P": "{#Super_L(Shift_L(p))}",
 "SKPH-RB": "{#test}",
 "SKPH-S": "{#command(shift(s))}",
