@@ -4109,6 +4109,7 @@
 "TK-LG": "{:}",
 "TK-LS": "{^}",
 "TK-PB": "define",
+"TK-PLS": "$\\{{^}",
 "TK-RBD": "{:stitch_last_word}",
 "TK-RBLT": "{&d}",
 "TKA*EUD": "Dade",
