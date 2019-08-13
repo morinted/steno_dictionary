@@ -4497,6 +4497,7 @@
 "TKPWUG": "debug",
 "TKPWUR": "gur",
 "TKPWURG": "debugger",
+"TKPWURT": "{^gurt}",
 "TKR*EL": "directly",
 "TKR*EPL": "README",
 "TKR*F": "{&°F}",
