@@ -3696,6 +3696,7 @@
 "STPH*BGS": "{#option(right)}",
 "STPH*EPBL": "incidentally",
 "STPH*EUBG": "snyk",
+"STPH*F": "{^\n\n[^}{:VLC_timestamp}{^]}Speaker 1:{-|}",
 "STPH*FPLTD": "{:}{-|}",
 "STPH*RB": "{#Alt_L(Left)}",
 "STPH-BG": "{#Control_L(Right)}",
