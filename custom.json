@@ -1502,7 +1502,7 @@
 "KWR-BG": "why can",
 "KWR-BGT": "why can't",
 "KWR-FS": "why was",
-"KWR-G": "{}=>",
+"KWR-G": "{:merge: =>}{MODE:RESET}",
 "KWR-P": "py",
 "KWR-P/2": "python2",
 "KWR-P/3": "python3",
