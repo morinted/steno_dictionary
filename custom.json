@@ -4413,6 +4413,7 @@
 "TKPWEUT/KR*R": "{>}git push origin HEAD:refs/for/{^}{>}",
 "TKPWEUT/PUL": "{>}git pull",
 "TKPWEUT/PURB/KR*R": "git push origin HEAD:refs/for/master",
+"TKPWEUT/PURBT": "{^}{>}git push origin HEAD:{^}",
 "TKPWEUT/RE/PWAEUS": "git rebase",
 "TKPWEUT/RE/PWAEUS/T-PB": "git rebase --continue",
 "TKPWEUT/STA*TS": "{>}git status",
