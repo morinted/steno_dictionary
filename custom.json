@@ -1422,6 +1422,8 @@
 "KW*BG": "Quebec",
 "KW*BG/KW*BG": "Québec",
 "KW*EPBGS": "conventional",
+"KW*ER/-BL": "queryable",
+"KW*ERBL": "queryable",
 "KW*EUBG": "{&-A}",
 "KW*EUBGS": "The quick brown fox jumps over the lazy dog.",
 "KW*EUF/KHREU": "equivocally",
