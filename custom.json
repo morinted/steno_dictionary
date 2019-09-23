@@ -4136,6 +4136,8 @@
 "TK*S": "{&°C}",
 "TK*UBL": "doubly",
 "TK-B": "dB",
+"TK-B/H-L": "dB HL",
+"TK-BL": "dB HL",
 "TK-F": "{>}def",
 "TK-FPBD": "defend",
 "TK-FPBS": "defiance",
