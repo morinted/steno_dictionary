@@ -4675,6 +4675,7 @@
 "TP*S": "{#F1}",
 "TP*TS": "if it's",
 "TP*UD": "if you'd",
+"TP*UPBG/TOR": "functor",
 "TP*UPBGS": "function*",
 "TP*UR": "if you are",
 "TP-B": "fizzbuzz",
