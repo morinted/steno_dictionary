@@ -14,6 +14,6 @@ If you would like to use this yourself, this is my process:
 
 1. Clone the repo.
 1. `npm install`
-1. `npm run watch`
+1. `npm start`
 
-Every time a change is made to `custom.json`, `npm run update` is run which will perform a diff of the changes you made within a minute rolling window. Then a commit is made and pushed to the repo.
+Every time a change is made to `custom.json`, `npm run debounced-commit-diff` is run which will perform a diff of the changes you made within a minute rolling window. Then a commit is made and pushed to the repo.

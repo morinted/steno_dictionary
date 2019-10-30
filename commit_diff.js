@@ -1,18 +1,23 @@
 const { detailedDiff } = require('deep-object-diff')
 const { spawnSync } = require('child_process')
+const { isEqual, isEmpty } = require('lodash')
 const current = require('./custom.json')
 const git = require('simple-git')()
 
 const rawOld = spawnSync('git', 'show master:custom.json'.split(' ')).stdout.toString()
 const old = JSON.parse(rawOld)
 
-// Debounce the script to allow multiple similar strokes to be grouped together.
-setTimeout(() => {
+const commitDiff = () => {
     const reallyCurrent = require('./custom.json')
-    if (JSON.stringify(reallyCurrent) !== JSON.stringify(current)) {
+    if (!isEqual(reallyCurrent, current)) {
+        console.log('Exiting early because additional changes were made.')
         return // Exit early. Another instance of the script will get the change.
     }
     const difference = detailedDiff(old, current)
+    if (Object.keys(difference).every(changeType => isEmpty(difference[changeType]))) {
+        console.log('No changes detected.')
+        return
+    }
 
     const strokeToString = dictionary => stroke => `${stroke}: ${dictionary[stroke]}`
     const added =
@@ -25,5 +30,14 @@ setTimeout(() => {
         ).join(', ')
 
     const commitMessage = [added && `${added}`, updated && `♻️${updated}`, deleted && `🗑️${deleted}`].filter(x => x).join(' ')
+    console.log(commitMessage)
     git.add('.').commit(commitMessage).push('origin', 'master')
-}, 60*1000)
+}
+
+module.exports = {
+    commitDiff,
+    debouncedCommitDiff: () => {
+        console.log('Waiting 60 seconds before committing changes to allow undos or additional changes.')
+        setTimeout(commitDiff, 60 * 1000)
+    }
+}
