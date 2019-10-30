@@ -7,7 +7,7 @@
     "commit-diff": "node -e 'require(\"./commit_diff.js\").commitDiff()'",
     "debounced-commit-diff": "node -e 'require(\"./commit_diff.js\").debouncedCommitDiff()'",
     "start": "npm run commit-diff && npm run watch",
-    "watch": "npm-watch"
+    "watch": "npm-watch debounced-commit-diff"
   },
   "repository": {
     "type": "git",
@@ -23,10 +23,15 @@
   "dependencies": {
     "deep-object-diff": "^1.1.0",
     "lodash": "^4.17.15",
-    "npm-watch": "^0.3.0",
+    "npm-watch": "^0.6.0",
     "simple-git": "^1.92.0"
   },
   "watch": {
-    "debounced-commit-diff": "*.json"
+    "debounced-commit-diff": {
+      "patterns": [
+        "((?!package).)*\\.json"
+      ],
+      "runOnChangeOnly": true
+    }
   }
 }
