@@ -7,6 +7,13 @@ const git = require('simple-git')()
 const rawOld = spawnSync('git', 'show master:custom.json'.split(' ')).stdout.toString()
 const old = JSON.parse(rawOld)
 
+const escape = string => {
+    return `${string}`
+        .replace(/\n/g, '\\n')
+        .replace(/\r/g, '\\r')
+        .replace(/\t/g, '\\t')
+}
+
 const commitDiff = () => {
     const reallyCurrent = require('./custom.json')
     if (!isEqual(reallyCurrent, current)) {
@@ -29,7 +36,11 @@ const commitDiff = () => {
             `${stroke}: ${old[stroke]} → ${current[stroke]}`
         ).join(', ')
 
-    const commitMessage = [added && `${added}`, updated && `♻️${updated}`, deleted && `🗑️${deleted}`].filter(x => x).join(' ')
+    const commitMessage = [
+        added && `${added}`,
+        updated && `♻️${updated}`,
+        deleted && `🗑️${deleted}`
+    ].filter(x => x).map(escape).join(' ')
     console.log(commitMessage)
     git.add('.').commit(commitMessage).push('origin', 'master')
 }
