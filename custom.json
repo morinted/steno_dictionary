@@ -2416,6 +2416,8 @@
 "PWR*B": "brb",
 "PWR*BGT": "{^~|]}",
 "PWR*EU": "bury",
+"PWR*EUPBLG": "Bridge",
+"PWR*EUPBLG/PWR*EUPBLG": "♥️ ♣️ ♦️ ♠️ Bridge ♠️ ♦️ ♣️ ♥️",
 "PWR*EURB": "British",
 "PWR*EUS": "buries",
 "PWR*R": "¦",
