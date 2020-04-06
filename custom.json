@@ -3957,7 +3957,7 @@
 "T-S": "it is",
 "T-T": "at the",
 "TA": "at a",
-"TA*B": "{#tab}{^}",
+"TA*B": "{^~|\t^}{MODE:RESET}",
 "TA*BG": "{#Control_L(Tab)}",
 "TA*BL": "Tabble",
 "TA*BS": "{^    ^}",
