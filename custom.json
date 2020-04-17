@@ -2671,6 +2671,7 @@
 "S*R": "{##Return Return Return}",
 "S*RBLT": "{&z}",
 "S*S": "{##Return Return Return}",
+"S*UGSZ": "{PLOVER:SUGGESTIONS}",
 "S*URL": "sural",
 "S-FGS": "SVGs",
 "S-FR": "server",
