@@ -2969,6 +2969,7 @@
 "SKEUFR": "scissor",
 "SKHA": "schwa",
 "SKHR": "circle",
+"SKHR*": "{^⃝}",
 "SKHR-F": "{#control(shift(f))}",
 "SKHR-P": "{#control(shift(p))}",
 "SKHR-PL": "!{^}",
