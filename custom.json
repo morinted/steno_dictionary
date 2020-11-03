@@ -3127,6 +3127,7 @@
 "SKPHEPBS": "makes sense",
 "SKPHEU": "{#command(option(i))}",
 "SKPHEUBT": "exhibit",
+"SKPHO": "{#command(shift(o))}",
 "SKPHOD": "chmod",
 "SKPHRAEUGS": "exclamation",
 "SKPHRAEUPB": "explain",
