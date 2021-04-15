@@ -1221,6 +1221,7 @@
 "KO*EUF/KOE": "Koivikko",
 "KO*EUF/PHOEPBLG": "☕",
 "KO*EUP": "{#Control_L(Insert)}",
+"KO*EUPB": "Heads or tails{?}{:roll:coin}{!}",
 "KO*FPBTS": "covenants",
 "KO*P": "{^.com}",
 "KO*PBG/ROR": "conqueror",
