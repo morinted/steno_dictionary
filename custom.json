@@ -4582,6 +4582,7 @@
 "TKPWEUT/*UPBD": "{>}git reset --soft HEAD@\\{1\\}",
 "TKPWEUT/A/PHEPBD": "git commit --amend",
 "TKPWEUT/H*UB": "GitHub",
+"TKPWEUT/HRA*B": "GitLab",
 "TKPWEUT/HUB": "github",
 "TKPWEUT/HUPB": "Github",
 "TKPWEUT/KPHEUT/A/PHEPBD": "{>}git commit --amend",
