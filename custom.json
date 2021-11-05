@@ -4209,6 +4209,7 @@
 "P-RS": "%",
 "P-PL": "{.^}",
 "P-PS": "../{^}",
+"P-BL": "pickleball",
 "P-BGS": "{&px}",
 "P-S": "P.S.{-|}",
 "W/STAPB/HRAOE": "with Stan Lee",
