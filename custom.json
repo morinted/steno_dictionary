@@ -1,4 +1,5 @@
 {
+"/STRAEUS": "stacktrace",
 "#": "=repeat_last_translation",
 "#/2*": "##{^ ^} {-|}",
 "12-R": "{#F12}",
@@ -290,6 +291,7 @@
 "STAPB/OG/TPER": "stanographer",
 "STAPBLT": "constantly",
 "STAPBD/HRO*EPB": "standalone",
+"STABG/TRA*EUS": "stacktrace",
 "STABG/AUFR/TPHRO*E": "Stack Overflow",
 "STO/KHAFT/EUBG": "stochastic",
 "STO/KAFT/EUBG": "stochastic",
