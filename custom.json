@@ -2741,7 +2741,7 @@
 "KPH-R": "{#Super_L(r)}",
 "KPH-P": "{#Super_L(p)}",
 "KPH-PBLG": "![](){#Left Left Left}{^} {-|}",
-"KPH-PBT": "{^}/* */{#Left Left Left}{-|}",
+"KPH-PBT": "{^}/**",
 "KPH-PLS": "{#command(plus)}",
 "KPH-B": "{#command(b)}",
 "KPH-BGT": "{#command(c t v)}",
