@@ -24,7 +24,7 @@
     "deep-object-diff": "^1.1.0",
     "lodash": "^4.17.15",
     "npm-watch": "^0.6.0",
-    "simple-git": "^1.92.0"
+    "simple-git": "^3.5.0"
   },
   "watch": {
     "debounced-commit-diff": {
